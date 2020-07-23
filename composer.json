@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "LumenFormRequest\\Requests\\": "src/"
+            "LumenFormRequest\\": "src/"
         }
     },
     "autoload-dev": {
